@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'essential_pragmatapro';
+  src: url('https://relic-img.s3.amazonaws.com/ppro.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font-family-base: "essential_pragmatapro",  'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: 'essential_pragmatapro', Lato, 'Microsoft Yahei', sans-serif !default;
