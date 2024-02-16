@@ -24,7 +24,8 @@ the scenes of our latest projects, sharing the breakthroughs and challenges we e
 
 In the spirit of our first post, let's go back to basics with a simple:
 ```bash
-echo Hello World
+echo Hello World!
+Hello World!
 ```
 A tradition that symbolizes the beginning of a new adventure in the world of programming. Just as these two words have become 
 a rite of passage for developers, today, they symbolize the start of our journey with you.
