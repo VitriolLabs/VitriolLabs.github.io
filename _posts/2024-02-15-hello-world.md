@@ -7,10 +7,10 @@ img_path: /blog
 image:
   path: /hello_world.png
   alt: Hello World
-tags: [blog, hello]
+tags: [hello-world]
 ---
 
-# Welcome to a blog beyond the code: Findings by VL
+# Welcome to a blog beyond the code \[Findings: VL]
 
 Hello, World! Today marks a significant milestone for us at Vitriol Labs - the launch of our official blog. We're thrilled 
 to launch this space as a cornerstone of our community, where we'll share insights & developments along our journey.

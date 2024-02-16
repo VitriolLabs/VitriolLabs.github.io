@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Findings by VL # the main title
+title: "Findings: VL" # the main title
 
 tagline: A blog beyond the code # it will display as the sub-title
 
