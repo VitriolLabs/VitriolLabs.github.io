@@ -10,7 +10,7 @@ image:
 tags: [blog, hello]
 ---
 
-# Welcome to the Vitriol Labs blog: A peek into our work
+# Welcome to a blog beyond the code: Findings by VL
 
 Hello, World! Today marks a significant milestone for us at Vitriol Labs - the launch of our official blog. We're thrilled 
 to launch this space as a cornerstone of our community, where we'll share insights & developments along our journey.
