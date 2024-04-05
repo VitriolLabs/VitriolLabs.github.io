@@ -2,7 +2,7 @@
 title: Hello World
 date: 2024-02-15 18:00:00 -0500
 categories: [Blog]
-author: slvrfn
+author: vlabs
 img_path: /blog
 image:
   path: /hello_world.png
