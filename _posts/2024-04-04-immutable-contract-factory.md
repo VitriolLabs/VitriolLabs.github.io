@@ -1,5 +1,5 @@
 ---
-title: Immutable Contract Factory
+title: Deterministic EVM Deployments and the Immutable Deployment Factory
 date: 2024-04-04 18:00:00 -0500
 categories: [Deployment]
 author: slvrfn
@@ -9,8 +9,6 @@ image:
   alt: Visualization of an immutable contract factory
 tags: [create2, create3, deployment, evm]
 ---
-
-# Deterministic EVM Deployments and the Immutable Deployment Factory
 
 The Ethereum blockchain has pioneered decentralized applications (dapps) with the introduction of smart contracts, forever changing how we participate in digital agreements and transactions. With the evolving landscape of blockchain technology, the methods for deploying these smart contracts have also advanced, leading to more efficient, secure, and deterministic deployment processes.
 
